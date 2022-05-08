@@ -3,7 +3,7 @@ const { Client } = require("@notionhq/client")
 
 //express setting
 const app = express();
-const port = 5001;
+const port = process.env.PORT || 3000
 
 //notion setting
 
