@@ -1,0 +1,16 @@
+{
+  "name": "notion-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ozaan",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "express": "^4.18.1",
+    "ws": "^8.6.0"
+  }
+}
